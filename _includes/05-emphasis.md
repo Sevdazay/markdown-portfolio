@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Dude* I'm really good at reading like **DUDE** I'm a fricken legend. 
