@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Kermit The Frog sipping Lipton tea](https://www.lifewire.com/thmb/KpKRn8zhSLcX99ckkdNl1LKdZII=/1660x1107/filters:no_upscale():max_bytes(150000):strip_icc()/TeaDrinkingBills1660-5abbe1a61d64040036ecb3d3.jpg)
